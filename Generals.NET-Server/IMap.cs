@@ -11,5 +11,8 @@ namespace Generals.NET_Server
         MapType Type { get; set; }
         ushort Size { get; set; }
 
+        public void Generate();
+        public int GetPlayerBlockNumber(int PlayerID);
+        public int GetPlayerTroop(int PlayerID);
     }
 }
