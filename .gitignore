@@ -3,3 +3,5 @@
 ################################################################################
 
 /Generals.NET-Server/obj
+/Generals.NET-Server/bin/Debug/netcoreapp3.1
+/.vs/Generals.NET-Server/v16
